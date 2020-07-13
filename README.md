@@ -1,4 +1,4 @@
-Build an Expense Tracker App | React Hooks & Context API
+## Build an Expense Tracker App | React Hooks & Context API
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
